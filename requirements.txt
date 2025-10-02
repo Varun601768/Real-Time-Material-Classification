@@ -1,0 +1,18 @@
+# Core dependencies
+numpy
+torch
+torchvision
+tqdm
+
+# Image processing
+Pillow
+opencv-python
+
+# Machine Learning utilities
+scikit-learn
+
+# Visualization
+matplotlib
+
+# Standard library (no installation needed)
+# os, random, copy, time, pathlib, argparse, json, sys, csv, shutil
