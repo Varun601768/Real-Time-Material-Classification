@@ -1,0 +1,13 @@
+{
+  "class_names": [
+    "#e-waste",
+    "#fabric",
+    "#metal",
+    "#paper",
+    "#plastic"
+  ],
+  "image_size": 224,
+  "num_classes": 5,
+  "model": "resnet18",
+  "best_val_acc": 0.9809437386569873
+}
