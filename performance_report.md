@@ -12,7 +12,7 @@
 - **E-waste:** Precision 99.2%, Recall 99.2%
 - **Paper:** Precision 94.5%, Recall 94.5%
 - **Fabric:** Precision 100%, Recall 100%
-- 
+
 ## Key Takeaways
 - Model performs consistently across all 5 classes.
 - Fabric has the highest recall (100%)
