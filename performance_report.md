@@ -1,4 +1,8 @@
 # Performance Report — Real-Time Material Classification
+Project: End-to-End ML Pipeline for Scrap Material Classification
+Date: October 2, 2025
+Model: ResNet18 (Transfer Learning)
+Framework: PyTorch
 ## Key Metrics
 - **Accuracy (overall):** 98.09%
 - **Precision (macro avg):** 95.59%
